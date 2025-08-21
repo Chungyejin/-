@@ -49,7 +49,7 @@
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/adbb74f1-94ed-4d2d-98a6-8be36f0ae157" />
 
-<h3>팀원</h3>
+<h3>팀원 👥</h3>
 
 | Name        | Role           |
 |------------|----------------|
