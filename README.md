@@ -24,7 +24,8 @@
    흐름에 맞게 새로운 문제를 자동으로 생성할 수 있습니다.이를 통해 같은 상황에서도 항상 새로운 문제를 접할 수 있어, 
    반복 학습의 지루함을 줄이고 몰입도를 높입니다.
    <br>
-   <img width="400" height="450" " alt="image" src="https://github.com/user-attachments/assets/dce52c45-a24f-48aa-a8a9-6bbdc237996e" />
+   
+   <img width="400" height="450"  alt="image" src="https://github.com/user-attachments/assets/dce52c45-a24f-48aa-a8a9-6bbdc237996e" />
    <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/ae5babd0-3da7-41b6-9c21-d825bc76b1db" />
 
 <h3> 2. 게임형 학습</h3>
