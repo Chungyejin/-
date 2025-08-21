@@ -1,4 +1,4 @@
-<h1>"게임처럼 즐기는 학습, Run & Learn"</h1>
+<img width="1014" height="770" alt="image" src="https://github.com/user-attachments/assets/26ac4399-2348-4213-9ddc-09e63bbe23cd" /><h1>"게임처럼 즐기는 학습, Run & Learn"</h1>
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/554f0465-63d7-46d0-9320-ee9bfed84249" />
 
 
@@ -26,6 +26,11 @@
 <h3>2. 게임형 학습</h3>
    문제 풀이는 단순한 퀴즈 풀이가 아니라 퀘스트 진행 과정과 연결됩니다. 예를 들어 NPC가 “이 문제를 풀면 열쇠를 얻을 수 있어!”라는 식으로 문제를 제시하고, 정답을 맞히면 보상이나 진행 이벤트가 발생합니다.
    이를 통해 학습 과정이 게임 진행의 일부가 되어, 자연스럽게 동기부여와 재미를 제공합니다.
+   
+   <img  width="400" height="450"alt="image" src="https://github.com/user-attachments/assets/7956b295-2f91-4c3d-8e3b-8f6009998e1a" />
+   <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/ec61500b-7e10-4e74-97fa-ecf19cfb756c" />
+
+
 <h3>3.단원별 학습 관리</h3>
    1단원, 2단원 등 교과 단원에 맞춰 주제를 구분하여 문제를 관리할 수 있습니다.
    이를 통해 학습을 단계별로 효과적으로 할 수 있습니다.
