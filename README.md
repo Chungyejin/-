@@ -5,7 +5,7 @@
 # 프로젝트 소개
 **Run & Learn** 은 RPG Maker MZ와 AI(OpenAI API)를 결합하여 만든 교육용 RPG 프로젝트입니다.  
 플레이어는 게임 속 NPC와 대화하면서 AI가 실시간으로 생성한 문제를 풀고, 게임을 즐기며 자연스럽게 학습할 수 있습니다.  
-<img width="1050" height="592" alt="image" src="https://github.com/user-attachments/assets/36e744ff-532a-48b3-9831-dfa74162372c" />
+<img width="800" height="450"  alt="image" src="https://github.com/user-attachments/assets/36e744ff-532a-48b3-9831-dfa74162372c" />
 
 
 
