@@ -12,8 +12,7 @@
 # 개발 환경 및 아키텍쳐
 <img width="600" height="360" alt="image" src="https://github.com/user-attachments/assets/99379032-b2d2-479e-aadb-c40a1f24ff0f" />
 <img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/3cf7bdb2-808b-4a0e-874e-199fbfd69901" />
-<img width="800" height="450"   alt="image" src="https://github.com/user-attachments/assets/37650678-fa51-4e55-97a1-96df9d52fc87" />
-
+<img width="800" height="450"alt="image" src="https://github.com/user-attachments/assets/9c55f59f-92c0-460d-ba19-9e0d30eb04b8" />
 
 
 
