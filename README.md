@@ -1,5 +1,5 @@
 <h1>"게임처럼 즐기는 학습, Run & Learn"</h1>
-<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/554f0465-63d7-46d0-9320-ee9bfed84249" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/554f0465-63d7-46d0-9320-ee9bfed84249" />
 
 
 # 프로젝트 소개
