@@ -2,7 +2,8 @@
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/554f0465-63d7-46d0-9320-ee9bfed84249" />
 
 
-# 프로젝트 소개
+# # <img src="https://example.com/pixel-.png" width="24"/> 팀원 소개
+프로젝트 소개
 **Run & Learn** 은 RPG Maker MZ와 AI(OpenAI API)를 결합하여 만든 교육용 RPG 프로젝트입니다.  
 플레이어는 게임 속 NPC와 대화하면서 AI가 실시간으로 생성한 문제를 풀고, 게임을 즐기며 자연스럽게 학습할 수 있습니다.  
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/f303227f-81eb-4384-95c7-0f915b602927" />
@@ -17,13 +18,13 @@
 
 
 # 주요 기능
-<h3>1. AI 문제 생성</h3>
+<h3> 1. AI 문제 생성</h3>
    OpenAI API를 활용하여 NPC가 실시간으로 학습 문제를 출제합니다. 단순히 저장된 문제를 불러오는 방식이 아니라, 흐름에 맞게 새로운 문제를 자동으로 생성할 수 있습니다.
    이를 통해 같은 상황에서도 항상 새로운 문제를 접할 수 있어, 반복 학습의 지루함을 줄이고 몰입도를 높입니다.
    <img width="400" height="450" " alt="image" src="https://github.com/user-attachments/assets/dce52c45-a24f-48aa-a8a9-6bbdc237996e" />
    <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/ae5babd0-3da7-41b6-9c21-d825bc76b1db" />
 
-<h3>2. 게임형 학습</h3>
+<h3> 2. 게임형 학습</h3>
    문제 풀이는 단순한 퀴즈 풀이가 아니라 퀘스트 진행 과정과 연결됩니다. 예를 들어 NPC가 “이 문제를 풀면 열쇠를 얻을 수 있어!”라는 식으로 문제를 제시하고, 정답을 맞히면 보상이나 진행 이벤트가 발생합니다.
    이를 통해 학습 과정이 게임 진행의 일부가 되어, 자연스럽게 동기부여와 재미를 제공합니다.
    
@@ -31,11 +32,11 @@
    <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/ec61500b-7e10-4e74-97fa-ecf19cfb756c" />
 
 
-<h3>3.단원별 학습 관리</h3>
+<h3> 3. 단원별 학습 관리</h3>
    1단원, 2단원 등 교과 단원에 맞춰 주제를 구분하여 문제를 관리할 수 있습니다.
    이를 통해 학습을 단계별로 효과적으로 할 수 있습니다.
    
-<h3>4. 랜덤 문제 제공</h3>
+<h3> 4. 랜덤 문제 제공</h3>
      같은 단원 내에서도 항상 같은 문제가 나오는 것이 아니라, 매번 다른 문제가 무작위로 생성됩니다. 그 덕분에 반복 학습 시에도 지루하지 않고, 다양한 문제 유형을 접할 수 있어 학생들의 문제 해결 능력과 응용력을 강화합니다.
 
    <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/3c70413a-648a-4d55-8593-c466fdf7831f" />
