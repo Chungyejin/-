@@ -37,6 +37,8 @@
 
 <h3>팀원</h3>
 
+| Name        | Role           |
+|------------|----------------|
 | 정예진 | Server Developer |
 | 신예찬 | AI Developer |
 | 황백준 | Server Developer |
