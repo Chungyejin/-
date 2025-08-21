@@ -12,6 +12,8 @@
 # 개발 환경 및 아키텍쳐
 <img width="600" height="360" alt="image" src="https://github.com/user-attachments/assets/99379032-b2d2-479e-aadb-c40a1f24ff0f" />
 <img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/3cf7bdb2-808b-4a0e-874e-199fbfd69901" />
+<img width="1096" height="338" alt="image" src="https://github.com/user-attachments/assets/8adc1013-c145-4079-9372-ce65c7278ac1" />
+
 
 
 # 주요 기능
