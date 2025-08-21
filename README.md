@@ -1,4 +1,4 @@
-<img width="1014" height="770" alt="image" src="https://github.com/user-attachments/assets/26ac4399-2348-4213-9ddc-09e63bbe23cd" /><h1>"게임처럼 즐기는 학습, Run & Learn"</h1>
+<h1>"게임처럼 즐기는 학습, Run & Learn"</h1>
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/554f0465-63d7-46d0-9320-ee9bfed84249" />
 
 
