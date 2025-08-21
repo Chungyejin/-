@@ -20,7 +20,7 @@
 <h3>1. AI 문제 생성</h3>
    OpenAI API를 활용하여 NPC가 실시간으로 학습 문제를 출제합니다. 단순히 저장된 문제를 불러오는 방식이 아니라, 흐름에 맞게 새로운 문제를 자동으로 생성할 수 있습니다.
    이를 통해 같은 상황에서도 항상 새로운 문제를 접할 수 있어, 반복 학습의 지루함을 줄이고 몰입도를 높입니다.
-   <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/adbb74f1-94ed-4d2d-98a6-8be36f0ae157" />
+   <img width="400" height="450" " alt="image" src="https://github.com/user-attachments/assets/dce52c45-a24f-48aa-a8a9-6bbdc237996e" />
    <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/ae5babd0-3da7-41b6-9c21-d825bc76b1db" />
 
 <h3>2. 게임형 학습</h3>
@@ -34,6 +34,7 @@
 <h3>3.단원별 학습 관리</h3>
    1단원, 2단원 등 교과 단원에 맞춰 주제를 구분하여 문제를 관리할 수 있습니다.
    이를 통해 학습을 단계별로 효과적으로 할 수 있습니다.
+   
 <h3>4. 랜덤 문제 제공</h3>
      같은 단원 내에서도 항상 같은 문제가 나오는 것이 아니라, 매번 다른 문제가 무작위로 생성됩니다. 그 덕분에 반복 학습 시에도 지루하지 않고, 다양한 문제 유형을 접할 수 있어 학생들의 문제 해결 능력과 응용력을 강화합니다.
 
