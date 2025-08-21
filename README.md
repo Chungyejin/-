@@ -20,7 +20,8 @@
 <h3>1. AI 문제 생성</h3>
    OpenAI API를 활용하여 NPC가 실시간으로 학습 문제를 출제합니다. 단순히 저장된 문제를 불러오는 방식이 아니라, 흐름에 맞게 새로운 문제를 자동으로 생성할 수 있습니다.
    이를 통해 같은 상황에서도 항상 새로운 문제를 접할 수 있어, 반복 학습의 지루함을 줄이고 몰입도를 높입니다.
-   <img width="1001" height="699" alt="image" src="https://github.com/user-attachments/assets/ae5babd0-3da7-41b6-9c21-d825bc76b1db" />
+   <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/adbb74f1-94ed-4d2d-98a6-8be36f0ae157" />
+   <img width="400" height="450" alt="image" src="https://github.com/user-attachments/assets/ae5babd0-3da7-41b6-9c21-d825bc76b1db" />
 
 <h3>2. 게임형 학습</h3>
    문제 풀이는 단순한 퀴즈 풀이가 아니라 퀘스트 진행 과정과 연결됩니다. 예를 들어 NPC가 “이 문제를 풀면 열쇠를 얻을 수 있어!”라는 식으로 문제를 제시하고, 정답을 맞히면 보상이나 진행 이벤트가 발생합니다.
