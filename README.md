@@ -2,21 +2,22 @@
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/554f0465-63d7-46d0-9320-ee9bfed84249" />
 
 
-# 프로젝트 소개
+# 🩵 프로젝트 소개
 **Run & Learn** 은 RPG Maker MZ와 AI(OpenAI API)를 결합하여 만든 교육용 RPG 프로젝트입니다.  
 플레이어는 게임 속 NPC와 대화하면서 AI가 실시간으로 생성한 문제를 풀고, 게임을 즐기며 자연스럽게 학습할 수 있습니다.  
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/f303227f-81eb-4384-95c7-0f915b602927" />
 
 
 
-# 개발 환경 및 아키텍쳐
+# 🩵 개발 환경 및 아키텍쳐
 <img width="500" height="360" alt="image" src="https://github.com/user-attachments/assets/99379032-b2d2-479e-aadb-c40a1f24ff0f" />
 <img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/3cf7bdb2-808b-4a0e-874e-199fbfd69901" />
 <img width="800" height="450"alt="image" src="https://github.com/user-attachments/assets/9c55f59f-92c0-460d-ba19-9e0d30eb04b8" />
 
 
 
-# 주요 기능
+# 🩵 주요 기능
+<br>
 <h3> 1. AI 문제 생성</h3>
    OpenAI API를 활용하여 NPC가 실시간으로 학습 문제를 출제합니다. 단순히 저장된 문제를 불러오는 방식이 아니라, 흐름에 맞게 새로운 문제를 자동으로 생성할 수 있습니다.
    이를 통해 같은 상황에서도 항상 새로운 문제를 접할 수 있어, 반복 학습의 지루함을 줄이고 몰입도를 높입니다.
@@ -40,7 +41,7 @@
 
    <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/3c70413a-648a-4d55-8593-c466fdf7831f" />
 
-# 기대효과 및 활용분야
+# 🩵 기대효과 및 활용분야
 
 현재는 테스트용으로 중학교 1학년 수학 문제만 적용되었지만, 향후 다양한 과목과 여러 학년으로 확장할 계획이며, 학습 기록 분석을 통해 **난이도 조정**과 **학습 성취**도 추적 기능도 추가될 예정입니다. 학생들은 맞춤형 문제를 게임 환경에서 풀면서 몰입 학습을 경험하고, 자기주도적 학습 습관, 집중력 향상, 학습 동기 강화와 같은 효과를 얻을 수 있습니다. 이러한 효과들은 교육 격차를 줄이고 공평한 학습 기회를 제공하는 데 활용될 수 있습니다.
 
